@@ -7,4 +7,3 @@ The project result slides have been uploaded as presentation_slides.pptx
 
 To access the images and annotations we used for the project, compressed versions have been uploaded to https://osf.io/ah6rc/
 
-\
